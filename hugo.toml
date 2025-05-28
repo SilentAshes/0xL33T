@@ -1,0 +1,20 @@
+baseURL = "https://SilentAshes.github.io/0xL33T/"
+languageCode = "en-us"
+title = "0xL33T Blog"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "dark"
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
