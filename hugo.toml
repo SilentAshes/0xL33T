@@ -5,7 +5,17 @@ theme = "PaperMod"
 
 [params]
   defaultTheme = "dark"
-  homeInfoParams = { Title = "0xL33T Blog", Content = "Cybersecurity and CTFs." }
+  homeInfoParams = { Title = "🛡️ About 0xL33T", Content = "0xL33T is a cybersecurity blog dedicated to delivering deep technical insights, practical research, and real-world applications across the security landscape. With a strong focus on areas like Digital Forensics & Incident Response (DFIR), Web Exploitation, Cryptography, and Offensive Security, the blog is a hub for enthusiasts and professionals seeking high-quality, no-fluff content.
+
+The goal of 0xL33T is to:
+
+🧠 Share knowledge through detailed write-ups and guides
+
+⚔️ Explore real-world attack and defense techniques
+
+🔍 Promote a deeper understanding of cyber threats and defense strategies
+
+Whether you're an aspiring analyst, red teamer, or just curious about how the digital world is secured (or broken), 0xL33T is your home for sharp, technical, and practical cybersecurity content." }
   ShowReadingTime = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
