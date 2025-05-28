@@ -10,11 +10,11 @@ theme = "PaperMod"
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
-  images = ["Static\favicon.ico"]
+  images = ["Static/favicon.ico"]
   keywords = ["cybersecurity", "CTF", "ethical hacking", "infosec"]
 
 [params.assets]
-  favicon = "Static\favicon.ico"
+  favicon = "Static/favicon.ico"
 
 
 [menu]
