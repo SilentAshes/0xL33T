@@ -5,8 +5,6 @@ theme = "PaperMod"
 
 [params]
   defaultTheme = "dark"
-  ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
   homeInfoParams = { Title = "0xL33T Blog", Content = "Cybersecurity and CTFs." }
   ShowReadingTime = true
   ShowPostNavLinks = true
