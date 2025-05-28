@@ -1,4 +1,11 @@
-
+---
+date: '2025-05-28T10:50:33+03:00'
+draft: false
+title: 'CTF Categories'
+tags:
+  - 0xAshes
+  - Roadmap
+---
 
 To play Capture the Flag (CTF) competitions as a **SOC (Security Operations Center)** analyst, you'll need to build on your foundational knowledge in cybersecurity and develop hands-on skills in offensive and defensive techniques. While traditional SOC work is often defensive (blue team), CTFs often include **both red team (offensive)** and **blue team (defensive)** elements. Here's a structured path:
 
