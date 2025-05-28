@@ -28,7 +28,9 @@ theme = "PaperMod"
     url = "/tags/"
     weight = 2
     
-  [[menu.main]]
-    name = "CTF"
-    url = "/ctf/"
-    weight = 2
+ [[menu.main]]
+  identifier = "team"
+  name = "Team"
+  url = "/team/"
+  weight = 40
+
