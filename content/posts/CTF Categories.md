@@ -38,7 +38,7 @@ Before diving into CTFs, make sure you're solid on:
 
 ## 🧩 CTF-Specific Skills by Category
 
-### 1. **Forensics / Blue Team** [x]
+### 1. **Forensics / Blue Team** 
 
 - Memory analysis (e.g. using **Volatility**).
     
@@ -51,7 +51,7 @@ Before diving into CTFs, make sure you're solid on:
 - DFIR tools: Autopsy, FTK Imager, CyberChef.
     
 
-### 2. **Cryptography** [-]
+### 2. **Cryptography** 
 
 - Common ciphers: Caesar, Vigenère, XOR, RSA basics.
     
@@ -69,7 +69,7 @@ Before diving into CTFs, make sure you're solid on:
 - Tools: Burp Suite, OWASP ZAP, Postman, curl.
     
 
-### 4. **Reverse Engineering** [-]
+### 4. **Reverse Engineering** 
 
 - Static & dynamic binary analysis.
     
@@ -85,7 +85,7 @@ Before diving into CTFs, make sure you're solid on:
 - GDB, pwndbg, pwntools (Python library for pwn challenges).
     
 
-### 6. **Misc / OSINT / Stego** [x]
+### 6. **Misc / OSINT / Stego** 
 
 - Open-source intelligence (OSINT): usernames, emails, metadata.
     
