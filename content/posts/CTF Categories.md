@@ -5,6 +5,7 @@ title: 'CTF Categories'
 tags:
   - 0xAshes
   - Roadmap
+author: 0xAshes
 ---
 
 To play Capture the Flag (CTF) competitions you'll need to build on your foundational knowledge in cybersecurity and develop hands-on skills in offensive and defensive techniques.CTFs often include **both red team (offensive)** and **blue team (defensive)** elements. Here's a structured path:
