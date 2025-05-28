@@ -12,7 +12,7 @@ theme = "PaperMod"
   ShowCodeCopyButtons = true
 
 [params.assets]
-  favicon = "favicon.ico"
+  favicon = "0xL33T.ico"
 
 
 [menu]
