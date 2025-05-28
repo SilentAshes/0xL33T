@@ -9,7 +9,7 @@ theme = "PaperMod"
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
-  images = ["/favicon.ico"]
+  images = ["/0xL33T.png"]
   keywords = ["cybersecurity", "CTF", "ethical hacking", "infosec"]
 
   [params.homeInfoParams]
@@ -27,7 +27,7 @@ The goal of 0xL33T is to:
 Whether you're an aspiring analyst, red teamer, or just curious about how the digital world is secured (or broken), 0xL33T is your home for sharp, technical, and practical cybersecurity content."""
 
 [params.assets]
-  favicon = "/favicon.ico"
+  favicon = "/0xL33T.png"
 
 [menu]
   [[menu.main]]
