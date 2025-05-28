@@ -12,8 +12,6 @@ categories:
 author: 0xAshes
 ---
 
-# My DFIR CTF Toolkit
-
 This Roadmap outlines the core tools for tackling Digital Forensics and Incident Response (DFIR) Capture The Flag (CTF) challenges. It includes a brief description of each tool and links to learning resources.
 
 ## Core DFIR Tools
