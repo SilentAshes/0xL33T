@@ -1,5 +1,5 @@
 ---
-date: '2025-05-28T12:4:00+03:00'
+date: '2025-05-28T12:04:00+03:00'
 draft: false
 title: 'Blue Team Tools'
 tags:
