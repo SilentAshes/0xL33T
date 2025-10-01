@@ -1,1 +1,1 @@
-[https://anonfaded.github.io/hugo-winston-cyber/](The New Blog)
+(The New Blog)[https://anonfaded.github.io/hugo-winston-cyber/]
